@@ -1,0 +1,2 @@
+rootProject.name = 'android_packages_apps_UnifiedNlp'
+include ':libraries:android_packages_apps_UnifiedNlp-api'

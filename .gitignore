@@ -1,3 +1,6 @@
 *.iml
-gen
-bin
+gen/
+bin/
+build/
+.sw?
+.gradle/
