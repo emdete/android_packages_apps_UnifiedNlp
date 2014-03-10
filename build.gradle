@@ -10,8 +10,8 @@ buildscript {
 apply plugin: 'android'
 
 dependencies {
-	compile project(':libraries:android_packages_apps_UnifiedNlp-api')
 	compile project(':libraries:android_location_provider-api')
+	compile project(':libraries:android_packages_apps_UnifiedNlp-api')
 }
 
 android {
