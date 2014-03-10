@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package internal.com.android.location.provider;
+package com.android.location.provider;
 
 import java.io.FileDescriptor;
 import java.lang.reflect.Method;

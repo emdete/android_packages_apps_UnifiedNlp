@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package internal.com.android.location.provider;
+package com.android.location.provider;
 
 import java.util.List;
 
